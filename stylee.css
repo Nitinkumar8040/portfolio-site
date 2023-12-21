@@ -1,0 +1,289 @@
+header{
+	width: 100%;
+	height: 50px;
+	/*border: 1px solid red;*/
+    float: left;
+    box-sizing: border-box;
+    padding: 6px;
+}
+body{
+	padding: 0;
+	margin: 0;
+}
+nav{
+	width: 100%;
+	height: 106px;
+	background-color: blue;
+	float: left;
+	box-sizing: border-box;
+	padding: 30px;
+}
+section{
+	width: 100%;
+	height: 1650px;
+	float: left;
+	box-sizing: border-box;
+	/*border: 1px solid blue;*/
+	padding: 30px;
+	
+}
+fieldset{
+	width: 690px;
+	height: 550px;
+	float: left;
+	margin-top: 50px;
+	border: 1px solid #ccc;
+	padding: 20px;
+}
+legend{
+	font-family: century gothic;
+	font-size: 30px;
+	font-weight: bold;
+}
+textarea{
+	width: 100%;
+	height: 100px;
+	box-sizing: border-box;
+	border: 1px solid #ccc;
+}
+footer{
+	width: 100%;
+	height: 260px;
+	box-sizing: border-box;
+	float: left;
+	background-color: black;
+	margin-top: 40px;
+}
+#brand_name{
+	padding: 0;
+	margin: 0;
+	font-family: sans-serif;
+	float: left;
+	margin-left: 24px;
+}
+#tag_line{
+	float: right;
+	margin: 0;
+	padding: 0;
+	margin-top: 10px;
+	font-family: century gothic;
+	margin-right: 24px;
+}
+#search{
+	width: 400px;
+	height: 40px;
+	float: left;
+	box-sizing: border-box;
+	border: none;
+	font-size: 16px;
+	padding: 10px;
+}
+#search-btn{
+	width: 100px;
+	height: 40px;
+	float: left;
+	box-sizing: border-box;
+	border: none;
+	margin-left: 3px;
+	font-size: 16px;
+}
+#menu_table{
+	width: 600px;
+	height:40px;
+	float: right;
+	box-sizing: border-box;
+
+}
+#menu_item{
+	background-color: white;
+	width: 20%;
+	text-align: center;
+}
+
+a{
+	text-decoration: none;
+	color: black;
+	font-family: sans-serif;
+}
+#venue{
+	float: left;
+}
+#phone{
+	float: right;
+
+}
+#popular_sweet_box{
+	width: 720px;
+	height: 550px;
+	float: left;
+	box-sizing: border-box;
+	background-color: black;
+	margin-top: 50px;
+	padding: 25px;
+	
+
+}
+#popular_sweet_title{
+	color: white;
+	text-align: center;
+	font-size: 30px;
+	font-family: sans-serif;
+	margin: 0;
+	padding: 0;
+}
+#popular_sweet_image{
+	width: 300px;
+	height: 200px;
+	margin: 15px;
+	border: 5px solid white;
+	box-sizing: border-box;
+}
+#rate_list_box{
+	/*border: 1px solid red;*/
+	width: 400px;
+	height: 550px;
+	float: right;
+	box-sizing: border-box;
+	margin-top: 50px;
+
+}
+#rate_hader{
+	height: 50px;
+	background-color: black;
+	color: white;
+	text-align: center;
+	font-family: century gothic;
+	font-size: 25px;
+}
+#rate_content{
+	background-color: blue;
+}
+#s_name{
+	color: white;
+	font-family: century gothic;
+	font-size: 22px;
+	padding: 10px;
+	border-bottom-width: 2px;
+	border-bottom-style: solid;
+	border-bottom-color: white;
+}
+#rate{
+	list-style: none;
+}
+
+#order_online{
+	font-size: 17px;
+	font-family: sans-serif;
+}
+#order_input{
+	width: 100%;
+	height: 35px;
+	box-sizing: border-box;
+	border: 1px solid #ccc;
+	margin-top: 5px;
+}
+#submit_btn{
+	padding: 10px;
+	font-size: 15px;
+	float: right;
+    border: 1px solid #ccc;
+    background-color: white;
+}
+#abt_us{
+	width: 450px;
+	height: 570px;
+	float: right;
+	border: 1px solid #ccc;
+	margin-top: 67px;
+	padding: 20px;
+	box-sizing: border-box;
+}
+#abt_title{
+	text-align: center;
+	font-family: century gothic;
+	font-size: 30px;
+}
+#abt_text{
+	text-align: justify;
+	font-family: sans-serif;
+	line-height: 24px;
+}
+#m_sweets{
+	float: left;
+	width: 100%;
+	box-sizing: border-box;
+}
+#more_sweet{
+	text-align: center;
+	font-family: century gothic;
+	font-size: 30px;
+}
+#sweets{
+	width: 270px;
+	height: 272px;
+	border: 1px solid #ccc;
+	float: left;
+	margin-right: 58px;
+	margin: 25px;
+}
+#sweets_end{
+	width: 270px;
+	height: 272px;
+	border: 1px solid #ccc;
+	float: left;
+	margin: 21px;
+
+}
+#sweet_pic{
+	width: 230px;
+	height: 190px;
+	margin: 18px;
+}
+#buy_btn{
+	padding: 10px;
+	border: 1px solid #ccc;
+	width: 100px;
+	background-color: white;
+
+}
+#contact_us{
+	width: 400px;
+	height: 260px;
+	box-sizing: border-box;
+	float: left;
+	/*border: 1px solid red;*/
+	padding: 10px;
+	padding-left: 30px;
+}
+#social_link{
+	width: 400px;
+	height: 250px;
+	box-sizing: border-box;
+	float: right;
+	/*border: 1px solid red;*/
+}
+#contact_title{
+	color: white;
+	font-family: sans-serif;
+	padding: 10px;
+
+}
+#contact_details{
+	color: white;
+	font-size: 20px;
+	font-family: sans-serif;
+	font-style: normal;
+	margin-bottom: 10px;
+}
+#social_logo{
+     width: 60px;
+     padding: 8px;
+}
+#devloper{
+	color: white;
+	float: left;
+	font-family: ;
+	margin-top: 200px;
+	margin-left: 300px;
+
+}
